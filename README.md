@@ -1,3 +1,5 @@
+# SIMEL Data Analysis
+
 ## Overview
 
 This project analyzes SIMEL (Sistema de Información de Mercado Eléctrico) data files. It was created to process and extract insights from SIMEL data using Scala for data processing and analysis. The analysis covers various aspects such as data cleaning, transformation, and aggregation.
